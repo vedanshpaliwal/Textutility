@@ -1,5 +1,6 @@
-# TextUTILS🪄
-A App where user can perform various operation like converting text to uppercase ,determining number of words in the sentence etc.
+# TextUTILS🪄  [Live Link : ⛓ https://vedanshpaliwal.github.io/Textutility/ ]
+A App where user can perform various operation like converting text to uppercase ,determining number of words in the sentence etc. 
+
 
 ![Screenshot 2022-05-30 020835](https://user-images.githubusercontent.com/67954788/170890573-7cac2718-494c-4b23-a558-4f2c6809b5fe.png)
 
